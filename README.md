@@ -6,4 +6,14 @@ NPL (text preprocessing,RNN, word embeddings, text analysis, sentiment analysis,
 # NLP Basics
 
 
+# NLP piplines
+1. Data acqurestion
+2. Text Processing
+3. Feature Engineering
+4. Modeling
+5. Deployment
+
+
+
+
 # Text preprocessing
